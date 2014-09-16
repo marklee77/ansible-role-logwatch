@@ -12,7 +12,6 @@ Example Playbook
     - hosts: all
       roles:
         - marklee77.mariadb
-        - marklee77.tomcat6
         - marklee77.mailserver
         - marklee77.logwatch
 
